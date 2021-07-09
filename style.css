@@ -129,7 +129,7 @@ h1{
     }
 
     .buttons a{
-        padding: 4px 0;
+        padding: 7px 0;
         font-size: 1.1rem;
     }
 }
@@ -148,6 +148,7 @@ h1{
     }
 
     .buttons a{
+        padding: 4px 0;
         font-size: 1rem;
     }
 }
